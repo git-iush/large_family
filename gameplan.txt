@@ -10,4 +10,4 @@ independent: peakage (18-35 fertile ==1, 35+ ==0)
              weight
              demographics (race, religion)
 
-model: numchildren = b0 + b1(eligible) + b2(peakage) + b3(eligible_peakage) + controls + demographics
+model: numownchildren = b0 + b1(eligible) + b2(peakage) + b3(eligible_peakage) + controls + demographics
