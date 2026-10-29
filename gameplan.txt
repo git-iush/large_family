@@ -1,13 +1,23 @@
 Using OLS
+Data Source: IPUMS USA
 dummy variable: eligible (eligible for medicaid/welfare)
-dependent variable: numchildren
+dependent variable: nchild
+
+filters: sex
+         age
+         stateicp
+         
 independent: peakage (18-35 fertile ==1, 35+ ==0)
              education
-             35+hrswrkd
+             hrswrkd
              eligible_peakage
-             income
-             yrslivedinhouse
-             weight
-             demographics (race, religion)
+             personalincome
+             familyincome/famsize
+             movedin
+             poverty
+             hispanic
+             race
+             hcovany
+
 
 model: numownchildren = b0 + b1(eligible) + b2(peakage) + b3(eligible_peakage) + controls + demographics
