@@ -1,0 +1,80 @@
+"Causal Analysis of Policy Effects on Fertility": 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4608812
+
+"The ACA Medicaid Expansion And Perinatal Insurance, Health Care Use, And Health Outcomes: A Systematic Review":
+https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2021.01150?casa_token=ukxAUYQitGIAAAAA%3Ae4sf8_xYoxI4WBriJBFDrUtySNT8OcTv-xgD_FoNb4fXZi5WYq1cbbD9NMz_DaKDRdydVYz1mWwJ9g
+
+"The U.S. Medicaid Financing Program":
+https://jamanetwork.com/journals/jama/article-abstract/2796374
+
+"A systematic review of the qualitative literature on barriers to high-quality prenatal and postpartum care among low-income women":
+https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.14008?casa_token=wbZuUnDdU7cAAAAA%3ADAmkM61HrJECM8YE1SEfGO7bqps38m8iadtBH150_t-6r-HlzZLnFgUQ4t__lz9-l4euCcWOEGb7zcbB
+
+"Evaluation of Medicaid Expansion Under the Affordable Care Act
+and Contraceptive Care in US Community Health Centers":
+https://watermark02.silverchair.com/darney_2020_oi_200307.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAkowggJGBgkqhkiG9w0BBwagggI3MIICMwIBADCCAiwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzvwppN8lIHigehWYAgEQgIIB_Ywf9VODMp3nNAoS5QUuT2U2TAOjEZuKrQf_EjLDwMTxqU7X1jXSOHNKqdzH2tnGX0b6gAK-VxTdzwA1iDzMf4G3bng05Z75VkvxDV6_5pX83dZY7wCc0vS_195Gax6n3GyZ6HIQGqfvmMN9_-thezWIfQGiAm_fgCxjndEWaPIw-xM39_Q_oTUMRjdv32UEnLjbyu3Wi0AfG2jLQLi8xTXc6GWaAUqR1EkY6N0YLkIzTZGFj7g7y0cjPhgz53Zg7UgoUG2aG4Pv9mRO9MTGP2P23vuzTeVZToI_qONkN-HGNuqgqiVnHE4EFF_AujKgS-Bi7BUbKh7IIZo0zXI-CqY76n_HaGxid65FPh4HV-PXlzffSao1xm1NGrLzK1KQejx91EDXBmV9AbzDubLMVxPRKuaD73JwHAy4nBgTyHgePvnXxXcaMbrEiOSTk_xqIuo3_RmtNwkjCK1njYpXeh8NsZSex0uj13QAGIjp1V9t3bmyvIgQFtCF4fdfByukkyJbt8AwEQg2tn86Xitnzn6dA4VzmrMhuVmBLWflB7mIOerWuSc3pv_NpOkqhGZC3Or4ngbGmvzyGHZilxG6__GTtnyD2UdK9ywhDVD-cWY9CtGq8cUr5q5D7I_ETuptaBPpVgl2Kzt2BNvkA01e09uuRmEH4OsIhCSx7Sj9
+
+"2024 Medicaid and CHIP Beneficiaries at a glance: Maternal Health":
+https://www.medicaid.gov/medicaid/benefits/downloads/2024-maternal-health-at-a-glance.pdf
+
+"Global Trends in Total Fertility Rate":
+https://link.springer.com/content/pdf/10.1186/s12889-022-13656-1.pdf
+
+"Trends of Mean Age of Mothers in the United States":
+https://www.cdc.gov/nchs/data/nvsr/nvsr74/nvsr74-09.pdf
+
+"Fertility in High-Income Countries":
+https://www.annualreviews.org/docserver/fulltext/economics/16/1/annurev-economics-081523-013750.pdf?expires=1793992057&id=id&accname=guest&checksum=12814249AA11876AB03B2633F164B0CB
+
+"Does Economic Advancement 'Cause' a Re-Increase in Fertility?"
+https://link.springer.com/article/10.1007/s10680-013-9309-2
+
+"Is U.S. fertility at an all-time low?":
+https://www.pewresearch.org/short-reads/2026/06/17/is-us-fertility-at-an-all-time-low-it-depends-how-you-measure-it/
+
+"An Economic Analysis of Fertility":
+https://www.nber.org/system/files/chapters/c2387/c2387.pdf
+
+"Can Policy Stall the Fertility Fall?":
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/padr.12431
+
+
+
+
+DATA
+Total fertility rate and replacement level:
+https://www.cdc.gov/nchs/data/nvsr/nvsr74/nvsr74-3.pdf
+
+Old-Age Dependency Ratio:
+https://data.worldbank.org/indicator/SP.POP.DPND.OL?locations=US
+
+Limitations of NCHILD
+- Does not count own children that do not live with the mother
+-> divorce, foster care, mothers that work/live elsewhere, children that moved out
+-> may be accounted for by restricting to women 18-35
+- Includes step-children and adopted children
+-> adoption is not a limitation since it still factors in the microeconomic model of the family, and the impact of medicaid coverage is still expected to reduce the cost of having a child
+-> same logic may apply to step-children
+
+Limitations of EDUC
+- Educational attainment
+- Interval between certain years of school is not necessarily equivalent
+-> bias against PhD holders?
+
+Limitations of HINSCAID
+- People that were once covered by medicaid may have lost coverage 
+- Note: demographic changes are not immediate
+
+- look at proportion of:
+-> children with divorced parents
+-> children under 18 that do not live with their parents
+
+Limitations
+- NCHILD
+- Discuss endogeneity
+- No high-income people with medicaid
+-> include general insurance coverage as a dummy variable
+-> do noncitizen pregnant women get medicaid?
+
+Rationale 
+- medicaid expansions (heterogeneity between states) will provide some women with longer term or more substantial coverage
