@@ -1,1 +1,2 @@
 df['EXPANSION'] = [0 if i==25 or i==32 or i==41 or i==43 or i==44 or i==46 or i==48 or i==49 or i==54 or i==68 else 1 for i in df['STATEICP']]
+df['LARGEFAM'] = [1 if i >= 3 else 0 for i in df['NCHILD']]
